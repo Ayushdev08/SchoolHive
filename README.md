@@ -16,11 +16,9 @@
 
 ### **Homepage View**
 
-![Homepage Screenshot](assets/screenshot1.png)
+![Homepage Screenshot](screenshot.png)
 
-### **Add New School Form**
 
-![Add School Screenshot](assets/screenshot2.png)
 
 ## 💻 **Tech Stack**
 
