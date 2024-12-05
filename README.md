@@ -1,5 +1,4 @@
 # SchoolHive
-Here’s an optimized **README.md** for your GitHub project that provides clear instructions, detailed information about the app, its tech stack, and how to deploy it.
 
 ```markdown
 # School Management Web App
