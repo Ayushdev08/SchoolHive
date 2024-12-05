@@ -30,7 +30,7 @@ Welcome to the **SchoolHive**, a full-stack web application built with the **MER
 
 ## Demo 🎥
 
-![Homepage Screenshot](img.png)
+![Homepage Screenshot](img.png))
 
 
 > Check out the live version to explore all the features in action.
